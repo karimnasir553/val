@@ -93,7 +93,7 @@ HTML = r"""<!DOCTYPE html>
     <button id="no">No 🙈</button>
   </div>
 
-  <div class="tiny">🔊 Music starts after you press “Yes”</div>
+ 
   <div class="footer">💌 From: Karim</div>
 </div>
 
